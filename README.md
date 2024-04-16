@@ -18,5 +18,5 @@
 
 ## User login default role user
 1. email=user@gmail.com
-2. password
+2. password=user
     
